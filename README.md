@@ -163,10 +163,7 @@ Information Systems Student
 School of Electrical Engineering and Computer Science  
 Belgrade, Serbia
 
-## Related Projects
 
-This web application works in conjunction with:
-- [Bank Database System](../bank-database-system/) - Complete SQL Server banking database
 
 ## License
 
