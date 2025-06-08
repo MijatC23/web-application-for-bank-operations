@@ -1,0 +1,39 @@
+# PHP
+*.log
+*.tmp
+*.cache
+
+# Database Connection Files
+konekcijaSaBazom.PHP
+config.php
+
+# IDE Files
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+*.temp
+*~
+
+# User Uploads
+uploads/
+files/
+
+# Session Files
+sessions/
+
+# Backup Files
+*.backup
+*.bak
+
+# Log Files
+logs/
+*.log
+
+# Environment Files
+.env
+.env.local 

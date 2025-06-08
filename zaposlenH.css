@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+body{
+    background-color: #363062;
+    font-family: "Inter";
+    color: aliceblue;
+}
+#nav{
+    background-color: #4D4C7D;
+};
+#OdjaviSE{
+    color: aliceblue;
+}
+#tabela{
+    margin-left: auto;
+    margin-right: auto;
+}
+#Kartica{
+    background-color: #363062;  
+   }
+.table{
+    background-color: #4D4C7D;
+    color: aliceblue;
+   margin-top: 20px;
+}

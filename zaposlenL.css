@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+body{
+    background-color: #363062;
+    color: aliceblue;
+    font-family: "Inter";
+}
+.container{
+    margin-top: 150px;
+    border: 1px solid black;
+    background-color: #4D4C7D;
+}
+.dugme{
+    margin-top: 10px;
+}
